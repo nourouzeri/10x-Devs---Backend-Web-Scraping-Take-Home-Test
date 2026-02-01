@@ -36,8 +36,9 @@ Pour installer `requests` :
 
 ```bash
 pip install requests
----------------------------------------
-Structure du code
+
+
+## Structure du code
 
 Constantes :
 
@@ -65,9 +66,7 @@ Affiche chaque produit dans la console.
 
 Sauvegarde tous les produits dans products.json.
 
------------------------------------------------------
-
-Utilisation
+## Utilisation
 
 Télécharger le script algolia_request.py.
 
