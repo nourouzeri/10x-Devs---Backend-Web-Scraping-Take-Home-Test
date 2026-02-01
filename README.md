@@ -3,6 +3,7 @@
 
 Ce script Python permet d'extraire des informations produits (socks) depuis un index Algolia via une requête POST et de les sauvegarder dans un fichier JSON.
 Site = https://www.salomon.com/accessories/socks
+
 API = 
 https://k1n6gb06ip-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(5.46.0)%3B%20Lite%20(5.46.0)%3B%20Browser%3B%20instantsearch.js%20(4.86.1)%3B%20react%20(19.3.0-canary-f93b9fd4-20251217)%3B%20react-instantsearch%20(7.22.1)%3B%20react-instantsearch-core%20(7.22.1)%3B%20next.js%20(16.1.6)%3B%20JS%20Helper%20(3.27.0)&x-algolia-api-key=ZGExZGNkYWNlMzY1YzAwNWUyNTEwY2FkMDMzN2IzMDc4MTQzZmNlZTJmNWI4NGI3ODU0Nzc3MWE1M2NjNDZkM2ZpbHRlcnM9Tk9UJTIwbm90VmlzaWJsZUJ5UmVhc29uQ29kZSUzQUQyQyZydWxlQ29udGV4dHM9cmVhc29uQ29kZS1EMkMmdXNlclRva2VuPTE2Zjk5NWIxLThiYWEtNDAyMy1iY2QyLWM3ZDk4YTE2YzI2OSZ2YWxpZFVudGlsPTE3NzAwMDE0ODg%3D&x-algolia-application-id=K1N6GB06IP 
 
