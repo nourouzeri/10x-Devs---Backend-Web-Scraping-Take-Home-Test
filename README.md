@@ -65,13 +65,15 @@ Sauvegarde tous les produits dans products.json.
 
 ## Utilisation
 
+Ouvrir l’invite de commandes Windows (CMD).
+
 Télécharger le script algolia_request.py.
 
-Installer la dépendance requests si ce n’est pas déjà fait.
+Se placer dans le dossier contenant le script algolia_request.py : cd C:\Chemin\Vers\Le\Dossier
 
-Lancer le script avec Python :
+Installer la dépendance requests si ce n’est pas déjà fait : pip install requests
 
-python algolia_request.py
+Lancer le script avec Python : python algolia_request.py
 
 
 Après exécution :
