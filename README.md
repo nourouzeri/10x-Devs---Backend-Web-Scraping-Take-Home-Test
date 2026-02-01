@@ -2,6 +2,7 @@
 # Product Scraper Script
 
 Ce script Python permet d'extraire des informations produits (socks) depuis un index Algolia via une requête POST et de les sauvegarder dans un fichier JSON.
+
 Site = https://www.salomon.com/accessories/socks
 
 API = 
