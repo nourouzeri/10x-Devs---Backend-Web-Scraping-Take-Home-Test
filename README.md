@@ -32,10 +32,7 @@ https://k1n6gb06ip-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%2
   - `requests`
   - `json` (inclus dans Python standard)
 
-Pour installer `requests` :
-
-```bash
-pip install requests
+Pour installer `requests` : pip install requests
 
 
 ## Structure du code
